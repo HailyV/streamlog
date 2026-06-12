@@ -3,7 +3,7 @@ name = "streamlog"
 version = "0.1.0"
 description = "A Twitch stream session tracker for the terminal"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 dependencies = [
     "click>=8.4.1",
     "hatchling>=1.30.1",
